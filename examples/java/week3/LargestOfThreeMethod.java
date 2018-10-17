@@ -24,7 +24,7 @@ public class LargestOfThreeMethod {
     // This is our main function that will be run at startup
     public static void main(String[] args) {
         int result;
-        // this should 
+        // this should run several tests
         result = find_greatest(100, 200, 1);
         result = find_greatest(300, 200, 1);
         result = find_greatest(100, 200, 300);
