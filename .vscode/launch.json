@@ -2,6 +2,56 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "GFG",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InfiniteLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "InfiniteLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalculateSum",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CalculateSum",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Decrement",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Decrement",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileNumberfrom5To10",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "WhileNumberfrom5To10",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AnimalSpeed",
             "request": "launch",
             "cwd": "${workspaceFolder}",
