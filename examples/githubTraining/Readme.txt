@@ -19,7 +19,7 @@ Note: Make sure git is installed on your computer
     - git add .
     - This will add all your files that you have changed from the local(your computer) to the staging area to be committed
 6) Commit your changes
-    - git commit "<commit message>"
+    - git commit -m "<commit message>"
 7) You will then push your changes so that they are published to the github servers
     - git push
 8) Navigate to www.github.com
