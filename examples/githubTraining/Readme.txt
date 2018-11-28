@@ -6,7 +6,7 @@ Note: Make sure git is installed on your computer
 2) Make a branch on the repository
     - git branch <branch name>
 3) Switch to the branch
-    - git checkout <branch name that was just made>
+    - git checkout -b <branch name that was just made>
 2) Navigate to Mechanical-Advantage/Training2018/examples/githubTraining folder
 3) Find the file "Editme.java"
 4) Create a class of your liking 
