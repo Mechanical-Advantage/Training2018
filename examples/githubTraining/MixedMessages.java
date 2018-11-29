@@ -1,9 +1,10 @@
-class EditMe {
+class MixedMessages {
 
     public static void main(String[] args) {
         // Ensure that you add your imports to this file so that it knows the class it is pick up from
         // Add your method call here
         Vishal.printSomeStatement();
         Elliot.printAMessage();
+        OwenV1.printMessage();
     }
 }
