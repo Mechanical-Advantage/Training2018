@@ -7,5 +7,6 @@ class MixedMessages {
         luke2.luke3();
         Elliot.printAMessage();
         OwenV1.printMessage();
+        kailas.main();
     }
 }
